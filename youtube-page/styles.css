@@ -1,0 +1,22 @@
+body {
+  position: relative;
+  background: rgb(20, 20, 20);
+  color: #F3F3F3;
+}
+
+.navBar {
+  height: 56px;
+  width: 100vw;
+
+  display: inline-flex;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+
+  background: rgb(30, 30, 30);
+}
+
+main {
+  padding-top: 56px;
+  
+}
